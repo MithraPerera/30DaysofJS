@@ -10,7 +10,7 @@ Highly recommend Wes' course and you can find the github repo [here](https://git
 
 ## Daily Checklist
 
-[ ] Day 1: Drum Kit
+✅ Day 1: Drum Kit
 
 [ ] Day 2: Clock
 
