@@ -12,7 +12,7 @@ Highly recommend Wes' course and you can find the github repo [here](https://git
 
 ✅ Day 1: [Drum Kit](https://github.com/MithraPerera/30DaysofJS/tree/main/01%20-%20JavaScript%20Drum%20Kit)
 
-[ ] Day 2: Clock
+✅ Day 2: Clock
 
 [ ] Day 3: Playing with CSS variables and JS
 
