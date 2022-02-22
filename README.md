@@ -14,7 +14,7 @@ Highly recommend Wes' course and you can find the github repo [here](https://git
 
 ✅ Day 2: [Clock](https://github.com/MithraPerera/30DaysofJS/tree/main/02%20-%20JS%20and%20CSS%20Clock)
 
-✅ Day 3: Playing with CSS variables and JS
+✅ Day 3: [Playing with CSS variables and JS](https://github.com/MithraPerera/30DaysofJS/tree/main/03%20-%20CSS%20Variables)
 
 [ ] Day 4: Array Cardio Day 1
 
